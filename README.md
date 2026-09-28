@@ -107,10 +107,11 @@ O projeto usa apenas o `Program.cs`, organizado em blocos:
 ## Diferenciais implementados
 
 - Switch expression em `ExibirSituacao()`
+- Validações adicionais (ordem das operações e intervalo das notas)
+- Menu exibindo o nome do aluno atual
+- Código dividido em métodos, sem lógica concentrada no fluxo principal
+
 
 ## Autor
 Aluno: Henrique Celso
 Rm: 559687
-- Validações adicionais (ordem das operações e intervalo das notas)
-- Menu exibindo o nome do aluno atual
-- Código dividido em métodos, sem lógica concentrada no fluxo principal
